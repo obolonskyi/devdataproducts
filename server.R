@@ -1,4 +1,3 @@
-setwd("C:/Users/mobol/Downloads")
 library(shiny)
 library(leaflet)
 library(maps)
